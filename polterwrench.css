@@ -111,9 +111,9 @@ body {
       color: green;
       text-decoration: none;
       position: relative;
-      width: 37.25;
+      width: 15;
       left: 0%;
-      font-size: 40px;
+      font-size: 30px;
       font-family: 'Jolly Lodger', cursive;
       color: green;
       text-align: center;
@@ -180,7 +180,7 @@ body {
 
     .button-container:hover {
       /*text-decoration: orange wavy underline;*/
-      text-shadow: 3px 3px grey;
+      text-shadow: 4px 4px #bf9000;
       background: rgba(255,255,255,0);
       }
 
